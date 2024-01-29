@@ -39,8 +39,8 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
            
-            "Passionate Full Stack Developer specializing in MERN stack technologies,
-            crafting robust and scalable applications that seamlessly integrate front-end and back-end functionalities."
+            Passionate Full Stack Developer specializing in MERN stack technologies,
+            crafting robust and scalable applications that seamlessly integrate front-end and back-end functionalities.
           </p>
           <div>
           <Link
